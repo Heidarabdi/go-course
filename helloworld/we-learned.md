@@ -1,0 +1,7 @@
+- # We Learned
+- How to create a simple Go program that prints "Hello, World!" to the console.
+- How to declare the main package in Go.
+- How to import packages in Go.
+- How to write the main function in Go.
+- How to use the fmt package to print to the console.
+- How to structure a Go program with a main package, imports, and a main function.
